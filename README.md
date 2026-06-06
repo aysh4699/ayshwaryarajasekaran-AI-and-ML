@@ -1,1 +1,8 @@
-The lab assignment and lab work repo for Group_15 in intro to AI and ML course
+# Ayshwarya Rajasekaran - AI & ML Projects
+
+## Thesis
+- FinalThesisNew_04_05_2026.ipynb — YOLOv11 connector defect detection (Adient/Volvo)
+
+## Lab Assignments
+- DAU500 Lab assignments (Machine Learning coursework)
+- Term Project — RPS classification
